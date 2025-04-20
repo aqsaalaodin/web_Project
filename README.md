@@ -1,1 +1,2 @@
-# web_Project
+This project is a collaborative website created by me and my teammate. It is designed as a basic practice platform for computing languages, similar to W3Schools. The frontend of the site was developed using HTML and CSS to build a clean and user-friendly interface, while JavaScript was used to implement interactive logic and functionality. The main purpose of this platform is to allow users to practice and improve their skills in languages like HTML, CSS, JavaScript, and Python. At this stage, the website mainly focuses on basic practice, and we plan to enhance it in the future with more features. This project helped us strengthen our frontend development skills and apply core concepts of programming in a practical way.
+
